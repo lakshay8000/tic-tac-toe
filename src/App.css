@@ -1,0 +1,11 @@
+:root {
+    --turquoise: #14bdac;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: var(--turquoise);
+}

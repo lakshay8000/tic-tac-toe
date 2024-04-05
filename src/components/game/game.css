@@ -1,0 +1,18 @@
+.tic-tac-toe-wrapper {
+    font-size: 8rem;
+    user-select: none;
+}
+
+.heading {
+    font-size: 3rem;
+    margin-bottom: 3rem;
+    text-decoration: underline;
+}
+
+.board {
+    max-width: 50rem;
+}
+
+.result {
+    font-size: 5rem;
+}
